@@ -22,5 +22,12 @@ Dumps **external offsets**, **internal offsets**, and **Hyperion (Roblox AC) off
 - bash
 - git clone https://github.com/nyra-workspace/RobloxDumper.git
 - cd RobloxDumper
+- 
+2. Build the project:
 - cmake .
 - cmake --build .
+
+## Usage
+
+1. Open Roblox.
+2. Run the program as **Administrator**.
