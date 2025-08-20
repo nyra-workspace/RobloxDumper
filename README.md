@@ -19,6 +19,8 @@ Dumps **external offsets**, **internal offsets**, and **Hyperion (Roblox AC) off
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/nyra-workspace/RobloxDumper.git
-   cd RobloxDumper
+- bash
+- git clone https://github.com/nyra-workspace/RobloxDumper.git
+- cd RobloxDumper
+- cmake .
+- cmake --build .
