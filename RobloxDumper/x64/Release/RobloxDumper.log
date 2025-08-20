@@ -1,0 +1,14 @@
+﻿  External.cpp
+  Hyperion.cpp
+  Internal.cpp
+  Manager.cpp
+  RobloxDumper.cpp
+  Scanner.cpp
+  Shuffles.cpp
+C:\Users\k\source\repos\RuntimeDumper\RobloxDumper\Shuffles\Shuffles.cpp(61,13): warning C4244: "Initialisierung": Konvertierung von "uintptr_t" in "int", möglicher Datenverlust
+C:\Users\k\source\repos\RuntimeDumper\RobloxDumper\Shuffles\Shuffles.cpp(82,15): warning C4244: "Initialisierung": Konvertierung von "uintptr_t" in "int", möglicher Datenverlust
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 691 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  RobloxDumper.vcxproj -> C:\Users\k\source\repos\RuntimeDumper\x64\Release\RobloxDumper.exe
